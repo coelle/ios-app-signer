@@ -209,10 +209,9 @@
 			};
 			buildConfigurationList = 652408C31BE743D4006FA4C6 /* Build configuration list for PBXProject "iOS App Signer" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
